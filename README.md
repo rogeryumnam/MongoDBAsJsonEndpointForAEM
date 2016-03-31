@@ -1,6 +1,6 @@
 # Server to Act as JSONEndpoint for JsonToCreateAEMPage project
 
-This is a project is simply using MongoDB to serve as an endpoint that would provide a JSON respones that could be converted into an AEM page (see: JsonToCreateAEMPage).
+This is a project is simply using MongoDB to serve as an endpoint that would provide a JSON respones that could be converted into an AEM page (see: https://github.com/LouelAlbertSaclot/JsonToCreateAEMPage).
 
 ## How to Run:
 On the folder run command 
